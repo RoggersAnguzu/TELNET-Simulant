@@ -1,6 +1,5 @@
 # TELNET-Simulant
 This Code Illustrates any Cisco Device can be be Operated remotely Other than being present with a Console Cable but only via Remote connections.
-![image](https://github.com/RoggersAnguzu/TELNET-Simulat/assets/141458053/60e98fe6-658b-4f6e-88d0-e1ca9bb217bc)
 
 Cisco Telnet Client Source Code
 
@@ -38,6 +37,7 @@ Establishing a Telnet connection to a Cisco device.
 Sending commands to the Cisco device.
 Receiving and displaying responses from the Cisco device.
 Feel free to extend the codebase with additional features as needed.
+![image](https://github.com/RoggersAnguzu/TELNET-Simulat/assets/141458053/60e98fe6-658b-4f6e-88d0-e1ca9bb217bc)
 
 **Contributing**
 Contributions to this project are welcome! If you have any bug fixes, feature enhancements, or suggestions, please open an issue or submit a pull request. Make sure to follow the contributing guidelines when making contributions.
